@@ -1,0 +1,8 @@
+O código implementa uma lista linear sequencial em linguagem C, provendo operações básicas como criação da lista, inserção de elementos no final, inserção ordenada, exclusão de elementos por chave e impressão de elementos da lista.
+1.	criando uma lista: A lista começa com capacidade para 10 elementos.
+2.	Inserção no final da lista: Os elementos 1, 3, 5, 6 e 7 são introduzidos no final da lista. Listagem resultante: 1 3 5 6 7
+3.	Adicionar sequencialmente: O número 2 e 4 são adicionados sequencialmente. Listagem resultante: 1 2 3 4 5 6 7
+4.	Excluir com chave: elementos com chave 5 serão excluídos. Listagem resultante: 1 2 3 4 6 7
+5.	Imprimir lista: Resultados finais: 1 2 3 4 6 7
+O código demonstra efetivamente como as listagens lineares sequenciais funcionam em C, mostrando a capacidade de adicionar elementos no final e em ordem. Excluir elementos com chave e imprima uma lista de resultados.
+
